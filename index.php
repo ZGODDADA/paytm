@@ -120,7 +120,7 @@
   <div class="glow"></div>
   <div class="container">
     <div class="logo">
-      <img src="logo.png" alt="App Logo">
+      <img src="https://darkstuff.in/Paytm-Circle-Logo.webp" alt="App Logo">
     </div>
     <div class="title">Paytm Spoof</div>
     <div class="description">
